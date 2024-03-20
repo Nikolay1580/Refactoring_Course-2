@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/AlmostDone/task/build/
+/build/
+/Chat/task/build/
+/CodeStyleAndFormatting/CodeSchemasAndEditorConfig/task/build/
+/CodeStyleAndFormatting/WhatIsFormatting/ReformatTheCodePractice/build/
+/CodeStyleAndFormatting/WhatIsFormatting/ReformatTheCodeUsingIDEPractice/build/
+/ExtractingCode/WhatIsExtractMethodRefactoring/ExtractDuplicatedCodePractice/build/
+/ExtractingCode/WhatIsExtractVariableRefactoring/ExtractMagicConstantsPractice/build/
+/Hangman/task/build/
+/InliningCode/InlineMethodRefactoring/InlineMethodAndVariablesPractice/build/
+/InliningCode/MiddleManCodeSmell/task/build/
+/InliningCode/WhatIsInlineVariableRefactoring/InlineVariablesPractice/build/
+/Introduction/task/build/
+/LastPush/task/build/
+/MastermindAdvanced/task/build/
+/MovingCode/WhatArePullUpAndPushDownRefactorings/task/build/
+/MovingCode/WhatIsMoveMethodRefactoring/task/build/
+/RefactoringAndItsPurpose/Practice/RefactoringAndItsPurposePractice/build/
+/RefactoringToDesignPatterns/FacadePatternPractice/task/build/
+/RefactoringToDesignPatterns/FactoryMethodPatternPractice/task/build/
+/RefactoringToDesignPatterns/StrategyPatternPractice/task/build/
+/RenamingCode/RenameRefactoringInIDE/FixTyposPractice/build/
+/TheFirstDateWithProgramming/task/build/
+/util/build/
+/WarmUp/task/build/
